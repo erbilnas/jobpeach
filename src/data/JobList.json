@@ -1,0 +1,48 @@
+{
+   "version":"1.0",
+   "statusCode":200,
+   "result":{
+      "items":[
+         {
+            "jobId":"1",
+            "positionName":"Computer Engineer",
+            "companyName":"Microsoft",
+            "durationDay":5,
+            "imageUrl":"https://picsum.photos/id/237/200/300",
+            "distance":"8,5 km",
+            "cityName":"Istanbul",
+            "townName":"Kadikoy",
+            "countryCode": "TR",
+            "address": "7652 Fieldstone Dr. Port Huron, MI 48060",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+         },
+         {
+            "jobId":"2",
+            "positionName":"Industrial Engineering",
+            "companyName":"Amazon",
+            "durationDay":11,
+            "imageUrl":"https://picsum.photos/id/237/200/300",
+            "distance":"98,1 km",
+            "cityName":"Sakarya",
+            "townName":"Serdivan",
+            "countryCode": "US",
+            "address": "580 County St. Ambler, PA 19002",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+         },
+         {
+            "jobId":"3",
+            "positionName":"Software Developer",
+            "companyName":"Uber Eats",
+            "durationDay":2,
+            "imageUrl":"https://picsum.photos/id/237/200/300",
+            "distance":"341,2 km",
+            "cityName":"Ankara",
+            "townName":"Cankaya",
+            "countryCode": "FR",
+            "address": "164 Westminster Lane Severn, MD 21144",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+         }
+      ],
+      "total":3
+   }
+}
