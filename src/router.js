@@ -6,7 +6,7 @@ import Detail from './components/Detail.vue';
 Vue.use(Router);
 
 export default new Router({
-  mode: 'history',
+  mode: '',
   base: process.env.BASE_URL,
   routes: [
     {
