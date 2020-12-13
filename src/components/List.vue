@@ -1,7 +1,7 @@
 <template>
   <div>
     <input v-model="searchTerm" class="search-input" type="text" value="" placeholder="You can search using company, city, town or position name"/>
-    <ListItem v-for="job in List" v-bind:job="job" />
+    <ListItem v-for="job in filteredList" v-bind:job="job" />
     <p>There are {{List.length}} active opportunity right now!</p>
   </div>
 </template>
